@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1F2937;
+  color: white;
+  margin-left: 48px;
+  font: #F9FAF8;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1F2937;
+  color: white;
+  margin-right: 18px;
+  font: #E5E7EB;
+
+}
